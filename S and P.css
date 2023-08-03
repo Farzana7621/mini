@@ -1,0 +1,28 @@
+
+.heading{
+    text-align: center;
+    padding:2.5rem 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  .heading span{
+    font-size: 3rem;
+    background:rgb(0, 162, 255);
+    color: white;
+    border-radius: .5rem;
+    padding:.2rem 1rem;
+  }
+  
+  .heading span.space{
+    background:none;
+  }
+  .ul li{
+      font-size: medium;
+  }
+  img{
+      
+      width: 50%;
+      margin-left:600px;
+	    margin-top:-700px;
+    
+  }
